@@ -1,0 +1,36 @@
+{"qid": "q00", "query": "What connection modes can a 5G phone be in, and which one keeps its stored context while dropping the air-interface link?", "relevant": ["TS 38.331#4.2.1"]}
+{"qid": "q01", "query": "How does a handset first get a signalling link and move into connected mode at the base station?", "relevant": ["TS 38.331#5.3.3"]}
+{"qid": "q02", "query": "Which control-plane message tells a device to switch to a new cell during a mobility event?", "relevant": ["TS 38.331#5.3.5", "TS 23.502#4.9.1"]}
+{"qid": "q03", "query": "When does a device tell the network that a neighbour has become stronger than the current serving cell?", "relevant": ["TS 38.331#5.5.4"]}
+{"qid": "q04", "query": "What recovery does a device attempt after losing its radio link?", "relevant": ["TS 38.331#5.3.7"]}
+{"qid": "q05", "query": "Why does using wider tone spacing give shorter time slots and lower delay on the air interface?", "relevant": ["TS 38.300#5.1"]}
+{"qid": "q06", "query": "How can operating on a narrower slice of the carrier help a device use less battery?", "relevant": ["TS 38.300#6.10"]}
+{"qid": "q07", "query": "What does a device do when its serving antenna direction is suddenly lost?", "relevant": ["TS 38.300#9.2.6"]}
+{"qid": "q08", "query": "How can one physical network be divided so that low-latency and massive-IoT services stay isolated from each other?", "relevant": ["TS 38.300#16.1", "TS 23.501#5.15"]}
+{"qid": "q09", "query": "Which building blocks of the 5G core handle mobility, sessions, user traffic forwarding and subscriber data?", "relevant": ["TS 23.501#4.2"]}
+{"qid": "q10", "query": "What kinds of connectivity can be set up to a data network, for example raw layer-2 frames or unstructured payloads?", "relevant": ["TS 23.501#5.6"]}
+{"qid": "q11", "query": "How does 5G differentiate traffic within one connection using flow identifiers and priority classes?", "relevant": ["TS 23.501#5.7"]}
+{"qid": "q12", "query": "How does a device ask the network for a particular slice of service during sign-on?", "relevant": ["TS 23.501#5.15"]}
+{"qid": "q13", "query": "How does the core separately track whether a device is signed up versus whether it currently has an active signalling link?", "relevant": ["TS 23.501#5.3"]}
+{"qid": "q14", "query": "Which core element actually routes and polices the user's data packets toward the internet?", "relevant": ["TS 23.501#5.8"]}
+{"qid": "q15", "query": "Walk through how a data connection to the internet is set up, including picking a session manager and assigning an address.", "relevant": ["TS 23.502#4.3.2"]}
+{"qid": "q16", "query": "How does an idle device get its data tunnels back, whether it wakes itself or the network nudges it?", "relevant": ["TS 23.502#4.2.3"]}
+{"qid": "q17", "query": "How do two neighbouring base stations move a device between themselves and then redirect the downlink traffic path?", "relevant": ["TS 23.502#4.9.1"]}
+{"qid": "q18", "query": "When a device joins the network, what identifier does it present and what does it get back?", "relevant": ["TS 24.501#5.5.1"]}
+{"qid": "q19", "query": "How does a device confirm it is really talking to the genuine operator during sign-on, and how does the network verify the SIM?", "relevant": ["TS 24.501#5.4.1", "TS 33.501#6.1"]}
+{"qid": "q20", "query": "Which step turns on ciphering and integrity protection for non-access-stratum signalling?", "relevant": ["TS 24.501#5.4.2"]}
+{"qid": "q21", "query": "How are the encryption keys for the radio link derived from the master SIM secret in 5G?", "relevant": ["TS 33.501#6.1", "TS 33.501#6.7"]}
+{"qid": "q22", "query": "How is a subscriber's permanent identity kept hidden from eavesdroppers over the air?", "relevant": ["TS 33.501#6.12"]}
+{"qid": "q23", "query": "Which broadcast signals let a phone find a cell's identity and timing when it first powers on?", "relevant": ["TS 38.211#7.4.3"]}
+{"qid": "q24", "query": "How does a device that is not yet time-aligned get onto the uplink and obtain a temporary identifier?", "relevant": ["TS 38.213#8.1"]}
+{"qid": "q25", "query": "Where does a device look for its scheduling grants on the downlink control channel?", "relevant": ["TS 38.213#10.1"]}
+{"qid": "q26", "query": "How does the base station pick the constellation and code rate for downlink data based on channel feedback?", "relevant": ["TS 38.214#5.1.3"]}
+{"qid": "q27", "query": "How do retransmissions that send extra parity bits get combined at the receiver to decode a failed block?", "relevant": ["TS 38.321#5.4.1"]}
+{"qid": "q28", "query": "How can a connected device switch its receiver off periodically to save power?", "relevant": ["TS 38.321#5.7"]}
+{"qid": "q29", "query": "How does the network reach an idle or dormant device that has downlink data waiting?", "relevant": ["TS 38.304#7.1"]}
+{"qid": "q30", "query": "On what signal-strength rules does an idle device decide which cell to camp on?", "relevant": ["TS 38.304#5.2.3"]}
+{"qid": "q31", "query": "How is a base station split into a central part and remote radio units, and which links connect them?", "relevant": ["TS 38.401#6.1"]}
+{"qid": "q32", "query": "How does the session manager tell the user-plane node how to detect, forward and count packets?", "relevant": ["TS 29.244#7.5"]}
+{"qid": "q33", "query": "Which service class aims for extreme reliability and about one millisecond of delay, and how is that met?", "relevant": ["TS 23.501#5.33"]}
+{"qid": "q34", "query": "How can a 5G network estimate exactly where a device is located?", "relevant": ["TS 38.305#4.1"]}
+{"qid": "q35", "query": "How does a device with no active signalling link restore its user-plane tunnels?", "relevant": ["TS 23.502#4.2.3"]}

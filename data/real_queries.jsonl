@@ -1,0 +1,120 @@
+{"qid": "r000", "query": "N4 information sent from SMF to I-SMF for local traffic offload", "relevant": ["23.501#5.34.6.2#0", "23.501#5.34.6.2#1", "23.501#5.34.6.2#2"], "spec": "23.501", "clause": "5.34.6.2"}
+{"qid": "r001", "query": "Old PDU session ID", "relevant": ["24.501#8.2.10.3#0"], "spec": "24.501", "clause": "8.2.10.3"}
+{"qid": "r002", "query": "Provisioning of the policies in the SEPP", "relevant": ["33.501#13.2.3.5#0"], "spec": "33.501", "clause": "13.2.3.5"}
+{"qid": "r003", "query": "Successful PSCell Addition/Change Report", "relevant": ["38.300#15.5.2.8#0"], "spec": "38.300", "clause": "15.5.2.8"}
+{"qid": "r004", "query": "Enhanced Single Entry PHR for multiple TRP STx2P MAC CE", "relevant": ["38.321#6.1.3.81#0", "38.321#6.1.3.81#1", "38.321#6.1.3.81#2"], "spec": "38.321", "clause": "6.1.3.81"}
+{"qid": "r005", "query": "Secondary cell group release", "relevant": ["38.331#5.3.5.4#0", "38.331#5.3.5.4#1", "38.331#5.3.5.4#2"], "spec": "38.331", "clause": "5.3.5.4"}
+{"qid": "r006", "query": "Support for Monitoring Events", "relevant": ["23.501#5.31.9#0"], "spec": "23.501", "clause": "5.31.9"}
+{"qid": "r007", "query": "UE security capability", "relevant": ["24.501#9.11.3.54#0", "24.501#9.11.3.54#1", "24.501#9.11.3.54#2"], "spec": "24.501", "clause": "9.11.3.54"}
+{"qid": "r008", "query": "Protection of the NEF – AF interface", "relevant": ["33.501#12.3#0"], "spec": "33.501", "clause": "12.3"}
+{"qid": "r009", "query": "Inventory Procedure", "relevant": ["38.300#16.23.6#0", "38.300#16.23.6#1", "38.300#16.23.6#2"], "spec": "38.300", "clause": "16.23.6"}
+{"qid": "r010", "query": "SP ZP CSI-RS Resource Set Activation/Deactivation MAC CE", "relevant": ["38.321#6.1.3.19#0", "38.321#6.1.3.19#1"], "spec": "38.321", "clause": "6.1.3.19"}
+{"qid": "r011", "query": "Event I1 (Interference becomes higher than threshold)", "relevant": ["38.331#5.5.4.10#0", "38.331#5.5.4.10#1", "38.331#5.5.4.10#2"], "spec": "38.331", "clause": "5.5.4.10"}
+{"qid": "r012", "query": "Registration Management", "relevant": ["23.501#5.5.1#0", "23.501#5.5.1#1", "23.501#5.5.1#2"], "spec": "23.501", "clause": "5.5.1"}
+{"qid": "r013", "query": "Paging for 5GS services", "relevant": ["24.501#5.6.2.2#0", "24.501#5.6.2.2#1", "24.501#5.6.2.2#2"], "spec": "24.501", "clause": "5.6.2.2"}
+{"qid": "r014", "query": "TLS protection based on 3gpp-Sbi-Target-apiRoot HTTP header", "relevant": ["33.501#13.1.1.2#0", "33.501#13.1.1.2#1"], "spec": "33.501", "clause": "13.1.1.2"}
+{"qid": "r015", "query": "Sidelink Discovery", "relevant": ["38.300#16.9.5#0"], "spec": "38.300", "clause": "16.9.5"}
+{"qid": "r016", "query": "Update of Pathloss Reference RS of PUSCH", "relevant": ["38.321#5.18.15#0", "38.321#5.18.15#1"], "spec": "38.321", "clause": "5.18.15"}
+{"qid": "r017", "query": "Conditions for NR sidelink co mmunication/discovery/positioning", "relevant": ["38.331#5.8.2#0", "38.331#5.8.2#1"], "spec": "38.331", "clause": "5.8.2"}
+{"qid": "r018", "query": "Support for L2TP tunnelling on N6", "relevant": ["23.501#5.8.2.16#0", "23.501#5.8.2.16#1"], "spec": "23.501", "clause": "5.8.2.16"}
+{"qid": "r019", "query": "Abnormal cases on the network side", "relevant": ["24.501#5.4.4.6#0", "24.501#5.4.4.6#1", "24.501#5.4.4.6#2"], "spec": "24.501", "clause": "5.4.4.6"}
+{"qid": "r020", "query": "Requirements on 5G-RG", "relevant": ["33.501#5.12#0"], "spec": "33.501", "clause": "5.12"}
+{"qid": "r021", "query": "Paging Collision Avoidance", "relevant": ["38.300#20.2#0"], "spec": "38.300", "clause": "20.2"}
+{"qid": "r022", "query": "Update of PUCCH Power Control Set for multiple TRP PUCCH", "relevant": ["38.321#5.18.22#0"], "spec": "38.321", "clause": "5.18.22"}
+{"qid": "r023", "query": "Reception of the RRCReject by the UE", "relevant": ["38.331#5.3.15.2#0", "38.331#5.3.15.2#1", "38.331#5.3.15.2#2"], "spec": "38.331", "clause": "5.3.15.2"}
+{"qid": "r024", "query": "Mobility support with IAB", "relevant": ["23.501#5.35.4#0"], "spec": "23.501", "clause": "5.35.4"}
+{"qid": "r025", "query": "UE-requested PDU session establishment procedure accepted by the", "relevant": ["24.501#6.4.1.3#0", "24.501#6.4.1.3#1", "24.501#6.4.1.3#2"], "spec": "24.501", "clause": "6.4.1.3"}
+{"qid": "r026", "query": "Nausf_UEAuthentication_Authenticate service operation", "relevant": ["33.501#14.1.2.1#0", "33.501#14.1.2.1#1"], "spec": "33.501", "clause": "14.1.2.1"}
+{"qid": "r027", "query": "Sidelink Specific Consistent LBT Failure", "relevant": ["38.300#16.9.9.3#0"], "spec": "38.300", "clause": "16.9.9.3"}
+{"qid": "r028", "query": "Sidelink DRX Command MAC CE", "relevant": ["38.321#6.1.3.52#0"], "spec": "38.321", "clause": "6.1.3.52"}
+{"qid": "r029", "query": "Failure type determination for (NG)EN-DC", "relevant": ["38.331#5.7.3.3#0", "38.331#5.7.3.3#1", "38.331#5.7.3.3#2"], "spec": "38.331", "clause": "5.7.3.3"}
+{"qid": "r030", "query": "TSCAI determination based on TSC Assistance Container", "relevant": ["23.501#5.27.2.4#0", "23.501#5.27.2.4#1", "23.501#5.27.2.4#2"], "spec": "23.501", "clause": "5.27.2.4"}
+{"qid": "r031", "query": "Establishment of a mapped 5G N AS security context during inter-system", "relevant": ["24.501#4.4.2.2#0", "24.501#4.4.2.2#1", "24.501#4.4.2.2#2"], "spec": "24.501", "clause": "4.4.2.2"}
+{"qid": "r032", "query": "Requirements on serv ice-based architecture", "relevant": ["33.501#5.9.2#0", "33.501#5.9.2#1"], "spec": "33.501", "clause": "5.9.2"}
+{"qid": "r033", "query": "Cross Carrier Scheduling", "relevant": ["38.300#10.8#0", "38.300#10.8#1"], "spec": "38.300", "clause": "10.8"}
+{"qid": "r034", "query": "MAC Entities", "relevant": ["38.321#4.2.2#0", "38.321#4.2.2#1", "38.321#4.2.2#2"], "spec": "38.321", "clause": "4.2.2"}
+{"qid": "r035", "query": "Actions related to transmission of IABOtherInformation message", "relevant": ["38.331#5.7.12.3#0", "38.331#5.7.12.3#1", "38.331#5.7.12.3#2"], "spec": "38.331", "clause": "5.7.12.3"}
+{"qid": "r036", "query": "AUSF Services", "relevant": ["23.501#7.2.7#0"], "spec": "23.501", "clause": "7.2.7"}
+{"qid": "r037", "query": "Suspend and resume of the N1 NAS signalling connection", "relevant": ["24.501#5.3.1.5#0", "24.501#5.3.1.5#1", "24.501#5.3.1.5#2"], "spec": "24.501", "clause": "5.3.1.5"}
+{"qid": "r038", "query": "Requirements on 5GC and NG-RAN related to keys", "relevant": ["33.501#5.1.3#0"], "spec": "33.501", "clause": "5.1.3"}
+{"qid": "r039", "query": "PSCell addition/change failure", "relevant": ["38.300#15.5.2.6#0"], "spec": "38.300", "clause": "15.5.2.6"}
+{"qid": "r040", "query": "MAC subheader for SL-SCH", "relevant": ["38.321#6.2.4#0", "38.321#6.2.4#1", "38.321#6.2.4#2"], "spec": "38.321", "clause": "6.2.4"}
+{"qid": "r041", "query": "UE information transfer on sidelink", "relevant": ["38.331#5.8.9.11#0", "38.331#5.8.9.11#1", "38.331#5.8.9.11#2"], "spec": "38.331", "clause": "5.8.9.11"}
+{"qid": "r042", "query": "Multi Access PDU Sessions", "relevant": ["23.501#5.32.2#0", "23.501#5.32.2#1", "23.501#5.32.2#2"], "spec": "23.501", "clause": "5.32.2"}
+{"qid": "r043", "query": "Time zone and time", "relevant": ["24.501#9.11.3.53#0", "24.501#9.11.3.53#1", "24.501#9.11.3.53#2"], "spec": "24.501", "clause": "9.11.3.53"}
+{"qid": "r044", "query": "Protection for the configur ation and enabling/disabling of", "relevant": ["33.501#17.2#0", "33.501#17.2#1"], "spec": "33.501", "clause": "17.2"}
+{"qid": "r045", "query": "Minimization of Service Interruption", "relevant": ["38.300#16.11#0", "38.300#16.11#1"], "spec": "38.300", "clause": "16.11"}
+{"qid": "r046", "query": "SP/AP SRS TCI State Indication MAC CE", "relevant": ["38.321#6.1.3.59#0", "38.321#6.1.3.59#1", "38.321#6.1.3.59#2"], "spec": "38.321", "clause": "6.1.3.59"}
+{"qid": "r047", "query": "NR sidelink U2N Relay UE threshold conditions", "relevant": ["38.331#5.8.14.2#0", "38.331#5.8.14.2#1"], "spec": "38.331", "clause": "5.8.14.2"}
+{"qid": "r048", "query": "UE configuration and provisioning for Disaster Roaming in EPS", "relevant": ["23.501#5.40.7.2#0", "23.501#5.40.7.2#1", "23.501#5.40.7.2#2"], "spec": "23.501", "clause": "5.40.7.2"}
+{"qid": "r049", "query": "Handling of Reliable Data Service", "relevant": ["24.501#6.2.15#0", "24.501#6.2.15#1"], "spec": "24.501", "clause": "6.2.15"}
+{"qid": "r050", "query": "Requirements for Security Edge Protection Proxy (SEPP)", "relevant": ["33.501#5.9.3.2#0", "33.501#5.9.3.2#1", "33.501#5.9.3.2#2"], "spec": "33.501", "clause": "5.9.3.2"}
+{"qid": "r051", "query": "Switching from single/mul ti-hop indirect to direct path", "relevant": ["38.300#16.12.6.1#0", "38.300#16.12.6.1#1", "38.300#16.12.6.1#2"], "spec": "38.300", "clause": "16.12.6.1"}
+{"qid": "r052", "query": "Update of Pathloss Reference RS of SRS", "relevant": ["38.321#5.18.14#0"], "spec": "38.321", "clause": "5.18.14"}
+{"qid": "r053", "query": "Relaxed measurement criterion for a stationary (e)RedCap UE", "relevant": ["38.331#5.7.4.4#0", "38.331#5.7.4.4#1"], "spec": "38.331", "clause": "5.7.4.4"}
+{"qid": "r054", "query": "UE configuration, subscription aspects and storage", "relevant": ["23.501#5.30.3.3#0", "23.501#5.30.3.3#1", "23.501#5.30.3.3#2"], "spec": "23.501", "clause": "5.30.3.3"}
+{"qid": "r055", "query": "TNAN information", "relevant": ["24.501#9.11.3.94#0", "24.501#9.11.3.94#1", "24.501#9.11.3.94#2"], "spec": "24.501", "clause": "9.11.3.94"}
+{"qid": "r056", "query": "UE sets up an IMS Emergency session with emergency registration", "relevant": ["33.501#10.2.2.2#0", "33.501#10.2.2.2#1", "33.501#10.2.2.2#2"], "spec": "33.501", "clause": "10.2.2.2"}
+{"qid": "r057", "query": "Backhaul transport", "relevant": ["38.300#4.7.3.1#0", "38.300#4.7.3.1#1", "38.300#4.7.3.1#2"], "spec": "38.300", "clause": "4.7.3.1"}
+{"qid": "r058", "query": "Activation/Deactivation of SCG", "relevant": ["38.321#5.29#0", "38.321#5.29#1", "38.321#5.29#2"], "spec": "38.321", "clause": "5.29"}
+{"qid": "r059", "query": "UE capability information elements", "relevant": ["38.331#6.3.3#0", "38.331#6.3.3#1", "38.331#6.3.3#2"], "spec": "38.331", "clause": "6.3.3"}
+{"qid": "r060", "query": "Default values", "relevant": ["23.501#5.7.2.7#0", "23.501#5.7.2.7#1", "23.501#5.7.2.7#2"], "spec": "23.501", "clause": "5.7.2.7"}
+{"qid": "r061", "query": "Ethernet header compression configuration", "relevant": ["24.501#8.3.2.18#0"], "spec": "24.501", "clause": "8.3.2.18"}
+{"qid": "r062", "query": "Key lifetimes", "relevant": ["33.501#6.2.3.3#0", "33.501#6.2.3.3#1"], "spec": "33.501", "clause": "6.2.3.3"}
+{"qid": "r063", "query": "Access Control", "relevant": ["38.300#4.10.4#0"], "spec": "38.300", "clause": "4.10.4"}
+{"qid": "r064", "query": "Sidelink Buffer Status Report MAC CEs", "relevant": ["38.321#6.1.3.33#0", "38.321#6.1.3.33#1", "38.321#6.1.3.33#2"], "spec": "38.321", "clause": "6.1.3.33"}
+{"qid": "r065", "query": "Event A4H1 (Neighbour becomes better than threshold1 and the Aerial UE", "relevant": ["38.331#5.5.4.25#0", "38.331#5.5.4.25#1", "38.331#5.5.4.25#2"], "spec": "38.331", "clause": "5.5.4.25"}
+{"qid": "r066", "query": "Connection Management", "relevant": ["23.501#5.5.2#0", "23.501#5.5.2#1", "23.501#5.5.2#2"], "spec": "23.501", "clause": "5.5.2"}
+{"qid": "r067", "query": "Service request procedure initiation", "relevant": ["24.501#5.6.1.2#0", "24.501#5.6.1.2#1", "24.501#5.6.1.2#2"], "spec": "24.501", "clause": "5.6.1.2"}
+{"qid": "r068", "query": "Authorization of discovery request and error handling", "relevant": ["33.501#13.3.1.3#0", "33.501#13.3.1.3#1", "33.501#13.3.1.3#2"], "spec": "33.501", "clause": "13.3.1.3"}
+{"qid": "r069", "query": "Overall Architecture", "relevant": ["38.300#4.1#0"], "spec": "38.300", "clause": "4.1"}
+{"qid": "r070", "query": "SL Grant reception and SCI transmission", "relevant": ["38.321#5.22.1.1#0", "38.321#5.22.1.1#1", "38.321#5.22.1.1#2"], "spec": "38.321", "clause": "5.22.1.1"}
+{"qid": "r071", "query": "MCCH information validity and notification of changes", "relevant": ["38.331#5.9.1.3#0", "38.331#5.9.1.3#1"], "spec": "38.331", "clause": "5.9.1.3"}
+{"qid": "r072", "query": "Application Function influence on Handling of Payload Headers", "relevant": ["23.501#5.6.17.2#0", "23.501#5.6.17.2#1", "23.501#5.6.17.2#2"], "spec": "23.501", "clause": "5.6.17.2"}
+{"qid": "r073", "query": "Handling of maximum group data rate limitation control", "relevant": ["24.501#6.2.19#0"], "spec": "24.501", "clause": "6.2.19"}
+{"qid": "r074", "query": "Security parameters to be used in the Forwarded mode", "relevant": ["33.501#18.2.4#0"], "spec": "33.501", "clause": "18.2.4"}
+{"qid": "r075", "query": "Physical layer measurement definition", "relevant": ["38.300#5.7.5#0"], "spec": "38.300", "clause": "5.7.5"}
+{"qid": "r076", "query": "Logical Channel Prioritization", "relevant": ["38.321#5.4.3.1#0", "38.321#5.4.3.1#1", "38.321#5.4.3.1#2"], "spec": "38.321", "clause": "5.4.3.1"}
+{"qid": "r077", "query": "Derivation of pathloss refere nce for TA validation of SRS for", "relevant": ["38.331#5.7.17#0", "38.331#5.7.17#1"], "spec": "38.331", "clause": "5.7.17"}
+{"qid": "r078", "query": "Network Exposure of 5GS information", "relevant": ["23.501#5.37.4#0", "23.501#5.37.4#1", "23.501#5.37.4#2"], "spec": "23.501", "clause": "5.37.4"}
+{"qid": "r079", "query": "T3512 value", "relevant": ["24.501#8.2.7.16#0"], "spec": "24.501", "clause": "8.2.7.16"}
+{"qid": "r080", "query": "Security mechanisms", "relevant": ["33.501#6.1.5.2#0", "33.501#6.1.5.2#1", "33.501#6.1.5.2#2"], "spec": "33.501", "clause": "6.1.5.2"}
+{"qid": "r081", "query": "OAM aspects", "relevant": ["38.300#4.9.4#0"], "spec": "38.300", "clause": "4.9.4"}
+{"qid": "r082", "query": "Handling of FR2 UL gap", "relevant": ["38.321#5.30#0", "38.321#5.30#1"], "spec": "38.321", "clause": "5.30"}
+{"qid": "r083", "query": "Reception of the SecurityModeCommand by the UE", "relevant": ["38.331#5.3.4.3#0", "38.331#5.3.4.3#1"], "spec": "38.331", "clause": "5.3.4.3"}
+{"qid": "r084", "query": "Subscription Permanent Identifier", "relevant": ["23.501#5.9.2#0", "23.501#5.9.2#1", "23.501#5.9.2#2"], "spec": "23.501", "clause": "5.9.2"}
+{"qid": "r085", "query": "NSSRG information", "relevant": ["24.501#9.11.3.82#0", "24.501#9.11.3.82#1", "24.501#9.11.3.82#2"], "spec": "24.501", "clause": "9.11.3.82"}
+{"qid": "r086", "query": "Inter-PLMN UP Security (IPUPS)", "relevant": ["33.501#4.2.2#0"], "spec": "33.501", "clause": "4.2.2"}
+{"qid": "r087", "query": "Radio Protocol Architecture for A-IoT Communication", "relevant": ["38.300#16.23.3#0"], "spec": "38.300", "clause": "16.23.3"}
+{"qid": "r088", "query": "Discontinuous Reception (DRX)", "relevant": ["38.321#5.7#0", "38.321#5.7#1", "38.321#5.7#2"], "spec": "38.321", "clause": "5.7"}
+{"qid": "r089", "query": "Sidelink common control information", "relevant": ["38.331#5.8.9.4#0", "38.331#5.8.9.4#1", "38.331#5.8.9.4#2"], "spec": "38.331", "clause": "5.8.9.4"}
+{"qid": "r090", "query": "Cell (re-)selection in SNPN access mode", "relevant": ["23.501#5.30.2.6#0"], "spec": "23.501", "clause": "5.30.2.6"}
+{"qid": "r091", "query": "Abnormal cases in the UE", "relevant": ["24.501#5.4.2.6#0", "24.501#5.4.2.6#1", "24.501#5.4.2.6#2"], "spec": "24.501", "clause": "5.4.2.6"}
+{"qid": "r092", "query": "Security mechanisms for non-SBA interfaces internal to the", "relevant": ["33.501#9.9#0", "33.501#9.9#1"], "spec": "33.501", "clause": "9.9"}
+{"qid": "r093", "query": "Services and Functions", "relevant": ["38.300#7.1#0", "38.300#7.1#1"], "spec": "38.300", "clause": "7.1"}
+{"qid": "r094", "query": "Sidelink CSI Reporting MAC CE", "relevant": ["38.321#6.1.3.35#0", "38.321#6.1.3.35#1"], "spec": "38.321", "clause": "6.1.3.35"}
+{"qid": "r095", "query": "Message definitions", "relevant": ["38.331#6.6.2#0", "38.331#6.6.2#1", "38.331#6.6.2#2"], "spec": "38.331", "clause": "6.6.2"}
+{"qid": "r096", "query": "Access to SNPN services for N5CW devices", "relevant": ["23.501#5.30.2.15#0", "23.501#5.30.2.15#1", "23.501#5.30.2.15#2"], "spec": "23.501", "clause": "5.30.2.15"}
+{"qid": "r097", "query": "UE radio capability ID", "relevant": ["24.501#9.11.3.68#0", "24.501#9.11.3.68#1"], "spec": "24.501", "clause": "9.11.3.68"}
+{"qid": "r098", "query": "Initiation of authentication and selection of authentication method", "relevant": ["33.501#6.1.2#0", "33.501#6.1.2#1", "33.501#6.1.2#2"], "spec": "33.501", "clause": "6.1.2"}
+{"qid": "r099", "query": "Cell DTX/DRX", "relevant": ["38.300#15.4.2.3#0", "38.300#15.4.2.3#1", "38.300#15.4.2.3#2"], "spec": "38.300", "clause": "15.4.2.3"}
+{"qid": "r100", "query": "IUC-Information Reporting", "relevant": ["38.321#5.22.1.10#0", "38.321#5.22.1.10#1", "38.321#5.22.1.10#2"], "spec": "38.321", "clause": "5.22.1.10"}
+{"qid": "r101", "query": "MTCH configuration for MBS broadcast", "relevant": ["38.331#9.1.1.7#0"], "spec": "38.331", "clause": "9.1.1.7"}
+{"qid": "r102", "query": "SMF Pause of Charging", "relevant": ["23.501#5.8.2.20#0"], "spec": "23.501", "clause": "5.8.2.20"}
+{"qid": "r103", "query": "Allowed PDU session status", "relevant": ["24.501#9.11.3.13#0", "24.501#9.11.3.13#1", "24.501#9.11.3.13#2"], "spec": "24.501", "clause": "9.11.3.13"}
+{"qid": "r104", "query": "Requirements for Network Functions (NF)", "relevant": ["33.501#5.9.3.5#0"], "spec": "33.501", "clause": "5.9.3.5"}
+{"qid": "r105", "query": "Data Forwarding for the Control Plane", "relevant": ["38.300#9.3.2.4#0", "38.300#9.3.2.4#1"], "spec": "38.300", "clause": "9.3.2.4"}
+{"qid": "r106", "query": "IUC-Request transmission", "relevant": ["38.321#5.22.1.9#0", "38.321#5.22.1.9#1"], "spec": "38.321", "clause": "5.22.1.9"}
+{"qid": "r107", "query": "Actions related to transmission of RRCSetupRequest message", "relevant": ["38.331#5.3.3.3#0", "38.331#5.3.3.3#1", "38.331#5.3.3.3#2"], "spec": "38.331", "clause": "5.3.3.3"}
+{"qid": "r108", "query": "Support of Additional ULI", "relevant": ["23.501#5.49.4#0", "23.501#5.49.4#1", "23.501#5.49.4#2"], "spec": "23.501", "clause": "5.49.4"}
+{"qid": "r109", "query": "Access control and checking in 5GMM-IDLE mode and in 5GMM-IDLE mode", "relevant": ["24.501#4.5.4.1#0", "24.501#4.5.4.1#1", "24.501#4.5.4.1#2"], "spec": "24.501", "clause": "4.5.4.1"}
+{"qid": "r110", "query": "Initial NAS security context establishment", "relevant": ["33.501#6.7.1.1#0"], "spec": "33.501", "clause": "6.7.1.1"}
+{"qid": "r111", "query": "Measurements to Support Scheduler Operation", "relevant": ["38.300#10.4#0", "38.300#10.4#1", "38.300#10.4#2"], "spec": "38.300", "clause": "10.4"}
+{"qid": "r112", "query": "Duplication RLC Activation/Deactivation MAC CE", "relevant": ["38.321#6.1.3.32#0", "38.321#6.1.3.32#1"], "spec": "38.321", "clause": "6.1.3.32"}
+{"qid": "r113", "query": "Transmission of SLSS", "relevant": ["38.331#5.8.5.3#0", "38.331#5.8.5.3#1", "38.331#5.8.5.3#2"], "spec": "38.331", "clause": "5.8.5.3"}
+{"qid": "r114", "query": "Network Slicing Support for Roaming", "relevant": ["23.501#5.15.6#0", "23.501#5.15.6#1", "23.501#5.15.6#2"], "spec": "23.501", "clause": "5.15.6"}
+{"qid": "r115", "query": "Message too long", "relevant": ["24.501#7.2.2#0"], "spec": "24.501", "clause": "7.2.2"}
+{"qid": "r116", "query": "Mapping of a 5G security context to an EPS security context", "relevant": ["33.501#8.6.1#0", "33.501#8.6.1#1"], "spec": "33.501", "clause": "8.6.1"}
+{"qid": "r117", "query": "Xn User Plane", "relevant": ["38.300#4.3.2.1#0"], "spec": "38.300", "clause": "4.3.2.1"}
+{"qid": "r118", "query": "On-demand SSB Activation/Deactivation", "relevant": ["38.321#5.18.42#0"], "spec": "38.321", "clause": "5.18.42"}
+{"qid": "r119", "query": "Full configuration", "relevant": ["38.331#5.3.5.11#0", "38.331#5.3.5.11#1", "38.331#5.3.5.11#2"], "spec": "38.331", "clause": "5.3.5.11"}
