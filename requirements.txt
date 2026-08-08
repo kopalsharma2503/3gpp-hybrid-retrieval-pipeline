@@ -1,0 +1,24 @@
+# Core (required) -- lightweight, the pipeline runs on these alone.
+numpy>=1.24
+scikit-learn>=1.3
+rank_bm25>=0.2.2
+pandas>=2.0
+matplotlib>=3.7
+
+# Neural backend (recommended) -- enables true dense embeddings and the
+# cross-encoder rerankers. If absent, the pipeline automatically falls back to
+# the TF-IDF+SVD dense backend and the lexical reranker.
+torch>=2.0
+sentence-transformers>=2.2
+
+# ANN index for dense retrieval at scale (HNSW). Falls back to brute force.
+faiss-cpu>=1.8
+
+# Statistical significance testing (Wilcoxon signed-rank).
+scipy>=1.10
+
+# Parse real 3GPP spec PDFs (scripts/download_3gpp.py + data/build_real_corpus.py).
+pypdf>=4.0
+
+# Testing.
+pytest>=7.0
